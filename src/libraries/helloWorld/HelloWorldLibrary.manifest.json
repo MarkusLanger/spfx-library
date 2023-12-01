@@ -1,0 +1,9 @@
+{
+  "id": "d0528d74-22f2-4215-96de-d381fc53b927",
+  "alias": "HelloWorldLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
